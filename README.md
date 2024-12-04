@@ -9,6 +9,8 @@ O que o script faz?
 Antes de usar Instale as bibliotecas necessárias: pip install pandas
 
 Organize as pastas: ->Base: Coloque os arquivos em C:\Users\Admin\Desktop\BACKUP (ou outro caminho, é só ajustar no código).
+
+
 ->Saída: A pasta Dados_Tratados será criada automaticamente.
 ->Como usar? ->Coloque os arquivos nas subpastas que começam com BK_.
 ->Ajuste o caminho base no código, se necessário. !!Execute o script.
